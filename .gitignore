@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SplitCost
+/CommonOps/bin/Debug/net7.0
+/CommonOps/obj
+/SplitCost/bin/Debug/net7.0
+/SplitCost/obj
